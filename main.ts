@@ -35,4 +35,4 @@ input.onButtonPressed(Button.AB, function () {
     robotbit.GeekServo2KG(robotbit.Servos.S7, 180)
     robotbit.GeekServo2KG(robotbit.Servos.S8, 180)
 })
-basic.showString("INITIALIZING")
+basic.showString("KITTEN-SPIDER BOT ")
